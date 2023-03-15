@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: bbe24037a0d14cb41a6bfedec5c0a559
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: New Era Casual
+  fontNames:
+  - New Era Casual
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 97e0e976a65185e49a3942cde94824ac, type: 3}
+  - {fileID: 12800000, guid: 4091f0ca5e65a584fbc11e50306033cb, type: 3}
+  - {fileID: 12800000, guid: 1950a1ee843d1294e91bc57558552d1b, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
